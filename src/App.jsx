@@ -15,7 +15,7 @@ function App() {
   return (
     <>
      
-     <BrowserRouter>
+     <BrowserRouter basename="/robbers-react-app">
      <Routes>
       <Route index element={<MainPage/>}/>
       <Route path="/home" element={<MainPage/>}/>
