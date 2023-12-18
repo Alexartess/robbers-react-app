@@ -7,7 +7,7 @@ import ListOfRob from "./ListOfRob";
 import Robber from "./Robber";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-// import ScrollToAnchor from "./Components/ScrollToAnchor";
+
 
 function App() {
   return (
